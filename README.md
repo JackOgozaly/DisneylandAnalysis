@@ -2,7 +2,7 @@
 This repository contains my project on 42,000 Disneyland text reviews. 
 
 
-## What's in this analysis? 
+## What's In This Analysis? 
 This project features the use of Natural Language processing to extract insights from thousands of online reviews. The main highlights of this project includes a list of the most talked about rides in each Disneyland Branch, frequently used bigrams, frequent positive and negative words used in reviews, and an analysis of yearly and monthly average ratings. 
 
 ## How Can I See This Analysis? 
